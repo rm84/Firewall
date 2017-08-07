@@ -1,1 +1,1 @@
-This is an example of a diff
+Script to merge common with specific for firewall configs
