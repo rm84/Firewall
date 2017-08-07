@@ -1,1 +1,1 @@
-Script to merge contents of firewallx.cfg with common.cfg
+This is an example of a diff
